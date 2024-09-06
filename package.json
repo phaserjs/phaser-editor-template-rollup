@@ -1,5 +1,5 @@
 {
-    "name": "template-rollup",
+    "name": "phaser-editor-template-rollup",
     "version": "1.2.0",
     "description": "A Phaser 3 template using Rollup.",
     "scripts": {
